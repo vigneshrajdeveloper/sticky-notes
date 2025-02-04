@@ -1,6 +1,8 @@
 {
+  
+  "homepage": "https://github.com/vigneshrajdeveloper/sticky-notes",
   "name": "google_keep_clone",
-  "homepage":"https://github.com/vigneshrajdeveloper/sticky-notes",
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +13,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-    
   },
   "dependencies": {
     "@mui/icons-material": "^6.4.1",
